@@ -34,6 +34,7 @@ Links to open and merged pull requests can be found [here](PRs.md).
 [https://github.com/mlpack/mlpack/pull/3239](https://github.com/mlpack/mlpack/pull/3239) - Proximal Policy Optimization
        
 [https://github.com/mlpack/mlpack/pull/3283](https://github.com/mlpack/mlpack/pull/3283) - Hindsight Experience Replay, Bit Flipping Environment, Maze Environment
+[https://github.com/mlpack/mlpack/pull/3306] - HER Tutorial with MAze environment
 
 ## Acknowledgements:
 There has been a lot of coding, experimentation, thousands of builds and never ending debugging, so much that to think that it is coming to a wrap up doesn’t feel like reality. Special thanks to Sai, Marcus and Fauz, my mentors this year, who had the answers to almost all the problems I faced. With you peopl's support, I had a very smooth and enjoyable experience.
