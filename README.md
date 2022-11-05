@@ -40,4 +40,15 @@ discussion with mentor)
 ## the Code:
 Links to open and merged pull requests can be found [here](PRs.md).
 
+## Acknowledgements:
+There has been a lot of coding, experimentation, thousands of builds and never ending debugging, so much that to think that it is coming to a wrap up doesn’t feel like reality. Special thanks to Sai, Marcus and Fauz, my mentors this year, who had the answers to almost all the problems I faced. With you peopl's support, I had a very smooth and enjoyable experience.
+
+I would also like to acknowledge the help from other members of the community, who were always available whenever needed, just a small chat away. I strongly intend to continue contributing to mlpack in all the ways I can, because it's just too much fun. :)
+
+I would also like to thank @nishnatkr9 for their proposal reviews.
+
+Also, thanks to Google for this amazing opportunity and the generous funding.
+
+This has been a summer worth remembering!
+
 
